@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">20173523 - Fuudy Restaurant</string>
+    <string name="idonthaveanyaccount">I dont have any account ? <font color='#4CAF50'> Register</font></string>
+    <string name="ihavealreadyanaccount">I have already an account ? <font color='#4CAF50'> Login</font></string>
+</resources>
